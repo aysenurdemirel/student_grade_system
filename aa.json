@@ -1,0 +1,55 @@
+{
+    "ogrenciler":[
+        {
+            "isim":"tekos",
+            "not": 100,
+            "numara": 1
+        },
+        {
+            "isim":"ibrahim",
+            "not": 30,
+            "numara": 2
+        },
+        {
+            "isim":"burak",
+            "not": 5,
+            "numara": 3
+        },
+        {
+            "isim":"mustafa",
+            "not": 20,
+            "numara": 4
+        },
+        {
+            "isim":"can",
+            "not": 50,
+            "numara": 5
+        },
+        {
+            "isim":"ayse",
+            "not": 60,
+            "numara": 6
+        },
+        {
+            "isim":"merve",
+            "not": 1,
+            "numara": 7
+        },
+        {
+            "isim":"enes",
+            "not": 0,
+            "numara": 8
+        },
+        {
+            "isim":"engin",
+            "not": 70,
+            "numara": 9
+        },
+        {
+            "isim":"sude",
+            "not": 90,
+            "numara": 10
+        }
+    ]
+    
+}
